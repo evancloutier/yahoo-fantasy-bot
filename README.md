@@ -1,2 +1,3 @@
-# yahoo-fantasy-bot
-Facebook Messenger Chatbot for Yahoo! Fantasy Sports
+# A Facebook Messenger Bot for Yahoo! Fantasy Sports
+
+Easily get updates and manage your Yahoo! Fantasy Sports teams via Facebook Messenger.
